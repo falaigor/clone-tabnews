@@ -1,7 +1,7 @@
 function Home() {
 	return (
 		<div>
-			Todo trabalho executado é sempre pensando em trazer o melhor pra você
+			Jessy, eu amo você. E quero viver todos os dias ao seu lado e fazer a nossa familia feliz! 😎
 		</div>
 	);
 }
