@@ -1,8 +1,8 @@
 function Home() {
 	return (
-		<div>
+		<h1>
 			Jessy, eu amo você. E quero viver todos os dias ao seu lado e fazer a nossa familia feliz! 😎
-		</div>
+		</h1>
 	);
 }
 
